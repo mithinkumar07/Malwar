@@ -1,0 +1,7 @@
+Name=DemoTrojan
+Description=Simple Trojan Detection
+
+ASCII("cmd.exe")
+ASCII("powershell")
+HEX("4D 5A")
+REGEX("bitcoin")

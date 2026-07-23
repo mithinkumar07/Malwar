@@ -1,0 +1,6 @@
+Name=DemoWorm
+Description=Simple Worm Detection
+
+ASCII("autorun.inf")
+ASCII("worm")
+REGEX("spread")
